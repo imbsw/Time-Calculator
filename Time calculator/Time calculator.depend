@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548871917 source:c:\users\buddh\documents\my projects\time calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
